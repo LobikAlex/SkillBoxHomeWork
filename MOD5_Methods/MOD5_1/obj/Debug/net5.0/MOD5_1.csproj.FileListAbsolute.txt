@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\bin\Debug\net5.0\MOD5_1.exe
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\bin\Debug\net5.0\MOD5_1.deps.json
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\bin\Debug\net5.0\MOD5_1.runtimeconfig.json
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\bin\Debug\net5.0\MOD5_1.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\bin\Debug\net5.0\MOD5_1.dll
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\bin\Debug\net5.0\ref\MOD5_1.dll
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\bin\Debug\net5.0\MOD5_1.pdb
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\obj\Debug\net5.0\MOD5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\obj\Debug\net5.0\MOD5_1.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\obj\Debug\net5.0\MOD5_1.AssemblyInfo.cs
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\obj\Debug\net5.0\MOD5_1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\obj\Debug\net5.0\MOD5_1.dll
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\obj\Debug\net5.0\ref\MOD5_1.dll
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\obj\Debug\net5.0\MOD5_1.pdb
+C:\Users\Alex\source\repos\SkillBoxHomeWork\SkillBoxHomeWorks\MOD5_1\obj\Debug\net5.0\MOD5_1.genruntimeconfig.cache

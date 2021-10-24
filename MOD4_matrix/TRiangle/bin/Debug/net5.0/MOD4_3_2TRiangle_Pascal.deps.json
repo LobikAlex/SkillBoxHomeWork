@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MOD4_3_2TRiangle_Pascal/1.0.0": {
+        "runtime": {
+          "MOD4_3_2TRiangle_Pascal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MOD4_3_2TRiangle_Pascal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\bin\Debug\net5.0\MOD4_3_2TRiangle_Pascal.exe
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\bin\Debug\net5.0\MOD4_3_2TRiangle_Pascal.deps.json
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\bin\Debug\net5.0\MOD4_3_2TRiangle_Pascal.runtimeconfig.json
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\bin\Debug\net5.0\MOD4_3_2TRiangle_Pascal.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\bin\Debug\net5.0\MOD4_3_2TRiangle_Pascal.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\bin\Debug\net5.0\ref\MOD4_3_2TRiangle_Pascal.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\bin\Debug\net5.0\MOD4_3_2TRiangle_Pascal.pdb
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\MOD4_3_2TRiangle_Pascal.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\MOD4_3_2TRiangle_Pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\MOD4_3_2TRiangle_Pascal.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\MOD4_3_2TRiangle_Pascal.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\MOD4_3_2TRiangle_Pascal.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\MOD4_3_2TRiangle_Pascal.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\ref\MOD4_3_2TRiangle_Pascal.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\MOD4_3_2TRiangle_Pascal.pdb
+C:\Users\Alex\source\repos\MOD4_Matrix\TRiangle\obj\Debug\net5.0\MOD4_3_2TRiangle_Pascal.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1Finance.exe
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1Finance.deps.json
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1Finance.runtimeconfig.json
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1Finance.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1Finance.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\bin\Debug\net5.0\ref\MOD4_3_1Finance.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1Finance.pdb
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1Finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1Finance.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1Finance.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1Finance.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1Finance.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\obj\Debug\net5.0\ref\MOD4_3_1Finance.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1Finance.pdb
+C:\Users\Alex\source\repos\MOD4_Matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1Finance.genruntimeconfig.cache
