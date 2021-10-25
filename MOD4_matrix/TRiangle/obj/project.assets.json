@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\MOD4_3_2TRiangle_Pascal.csproj",
-      "projectName": "MOD4_3_2TRiangle_Pascal",
-      "projectPath": "d:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\MOD4_3_2TRiangle_Pascal.csproj",
+      "projectUniqueName": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\MOD4_3_2   Треугольник Паскаля.csproj",
+      "projectName": "MOD4_3_2   Треугольник Паскаля",
+      "projectPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\MOD4_3_2   Треугольник Паскаля.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "d:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\obj\\",
+      "outputPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

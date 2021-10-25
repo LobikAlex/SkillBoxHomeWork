@@ -3,29 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MOD5_Methods", "MOD5_Methods", "{ADEFD904-F042-4061-BBA3-127E0E4F792D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Модуль 5. Методы", "Модуль 5. Методы", "{ADEFD904-F042-4061-BBA3-127E0E4F792D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_1", "MOD5_Methods\MOD5_1\MOD5_1.csproj", "{2F7C0011-47C1-4463-8B65-C4DD32D56170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_1   разделения строки на слова", "MOD5_Methods\MOD5_1\MOD5_1   разделения строки на слова.csproj", "{2F7C0011-47C1-4463-8B65-C4DD32D56170}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_2", "MOD5_Methods\MOD5_2\MOD5_2.csproj", "{17025802-8C62-48FF-AB0E-78E9881D09CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_2   Перестановка слов", "MOD5_Methods\MOD5_2\MOD5_2   Перестановка слов.csproj", "{17025802-8C62-48FF-AB0E-78E9881D09CB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MOD4_Matrix", "MOD4_Matrix", "{6151328C-C0CA-40DB-9994-3099A40F06DF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Модуль 4. Матрицы", "Модуль 4. Матрицы", "{6151328C-C0CA-40DB-9994-3099A40F06DF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_1", "MOD4_matrix\MOD4_1\MOD4_1.csproj", "{05ED100F-B159-43A4-B937-C84736D42C92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_1   Создание случайной матрицы", "MOD4_matrix\MOD4_1\MOD4_1   Создание случайной матрицы.csproj", "{05ED100F-B159-43A4-B937-C84736D42C92}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_2", "MOD4_matrix\MOD4_2\MOD4_2.csproj", "{DFF0D796-E7C8-45A9-936C-E5C0A635FDA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_2  Наименьший элемент", "MOD4_matrix\MOD4_2\MOD4_2  Наименьший элемент.csproj", "{DFF0D796-E7C8-45A9-936C-E5C0A635FDA9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3", "MOD4_matrix\MOD4_3\MOD4_3.csproj", "{1D7AEEF5-3F35-4AD1-B635-19A8860A1986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3  Игра «Угадай число»", "MOD4_matrix\MOD4_3\MOD4_3  Игра «Угадай число».csproj", "{1D7AEEF5-3F35-4AD1-B635-19A8860A1986}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_1Finance", "MOD4_matrix\mod4_z1\MOD4_3_1Finance.csproj", "{CFFBBB1F-233A-4EE9-8380-1190F3176A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_1   Финансовая таблица", "MOD4_matrix\mod4_z1\MOD4_3_1   Финансовая таблица.csproj", "{CFFBBB1F-233A-4EE9-8380-1190F3176A11}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_2TRiangle_Pascal", "MOD4_matrix\TRiangle\MOD4_3_2TRiangle_Pascal.csproj", "{2D40BE96-C372-4028-AB80-0BEBBEA61A4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_2   Треугольник Паскаля", "MOD4_matrix\TRiangle\MOD4_3_2   Треугольник Паскаля.csproj", "{2D40BE96-C372-4028-AB80-0BEBBEA61A4F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_3MatrixXNumber", "MOD4_matrix\MatrixNumber1\MOD4_3_3MatrixXNumber.csproj", "{1E552347-140A-4121-8A2C-A4D8B1784CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_3   Умножение матрицы на число", "MOD4_matrix\MatrixNumber1\MOD4_3_3   Умножение матрицы на число.csproj", "{1E552347-140A-4121-8A2C-A4D8B1784CE4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_4MatrixPlus", "MOD4_matrix\MatrixPLUS\MOD4_3_4MatrixPlus.csproj", "{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_4   Сложение и вычитание матриц", "MOD4_matrix\MatrixPLUS\MOD4_3_4   Сложение и вычитание матриц.csproj", "{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_5MatrixXMatrix", "MOD4_matrix\MatrixXMatrix\MOD4_3_5MatrixXMatrix.csproj", "{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_5   Перемножение матриц", "MOD4_matrix\MatrixXMatrix\MOD4_3_5   Перемножение матриц.csproj", "{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
