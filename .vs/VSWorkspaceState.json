@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MOD4_matrix",
+    "\\MOD4_matrix\\MatrixXMatrix"
   ],
+  "SelectedNode": "\\MOD4_matrix\\MatrixXMatrix\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
