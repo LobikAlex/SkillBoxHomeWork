@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4MatrixPlus.exe
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4MatrixPlus.deps.json
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4MatrixPlus.runtimeconfig.json
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4MatrixPlus.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4MatrixPlus.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\bin\Debug\net5.0\ref\MOD4_3_4MatrixPlus.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4MatrixPlus.pdb
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4MatrixPlus.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4MatrixPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4MatrixPlus.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4MatrixPlus.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4MatrixPlus.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4MatrixPlus.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\ref\MOD4_3_4MatrixPlus.dll
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4MatrixPlus.pdb
+C:\Users\Alex\source\repos\MOD4_Matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4MatrixPlus.genruntimeconfig.cache
