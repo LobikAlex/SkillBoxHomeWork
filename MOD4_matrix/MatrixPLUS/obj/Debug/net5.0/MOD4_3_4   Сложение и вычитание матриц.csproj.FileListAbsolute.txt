@@ -1,0 +1,24 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_3   Умножение матрицы на число.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_3   Умножение матрицы на число.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_3   Умножение матрицы на число.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_3   Умножение матрицы на число.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\Program.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\ref\MOD4_3_4   Сложение и вычитание матриц.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_3   Умножение матрицы на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\bin\Debug\net5.0\MOD4_3_3   Умножение матрицы на число.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.csproj.CopyComplete
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\ref\MOD4_3_4   Сложение и вычитание матриц.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MatrixPLUS\obj\Debug\net5.0\MOD4_3_4   Сложение и вычитание матриц.genruntimeconfig.cache

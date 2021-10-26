@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3 Умножение матрицы на число.csproj": {
-                "projectPath": "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3 Умножение матрицы на число.csproj"
+              "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3   Умножение матрицы на число.csproj": {
+                "projectPath": "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3   Умножение матрицы на число.csproj"
               }
             }
           }
@@ -66,12 +66,12 @@
         }
       }
     },
-    "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3 Умножение матрицы на число.csproj": {
+    "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3   Умножение матрицы на число.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3 Умножение матрицы на число.csproj",
-        "projectName": "MOD4_3_3 Умножение матрицы на число",
-        "projectPath": "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3 Умножение матрицы на число.csproj",
+        "projectUniqueName": "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3   Умножение матрицы на число.csproj",
+        "projectName": "MOD4_3_3   Умножение матрицы на число",
+        "projectPath": "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3   Умножение матрицы на число.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
         "outputPath": "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\obj\\",
         "projectStyle": "PackageReference",

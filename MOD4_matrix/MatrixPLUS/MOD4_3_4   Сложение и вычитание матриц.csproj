@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\SkillBoxHomeWorks\MOD4_matrix\MatrixNumber1\MOD4_3_3 Умножение матрицы на число.csproj" />
+    <ProjectReference Include="..\..\..\..\SkillBoxHomeWorks\MOD4_matrix\MatrixNumber1\MOD4_3_3   Умножение матрицы на число.csproj" />
   </ItemGroup>
 
   <ItemGroup>
