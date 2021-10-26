@@ -1,0 +1,15 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\bin\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\bin\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\bin\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\bin\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\bin\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\bin\Debug\net5.0\ref\MOD4_3_3 Умножение матрицы на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\bin\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\obj\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\obj\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\obj\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\obj\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\obj\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\obj\Debug\net5.0\ref\MOD4_3_3 Умножение матрицы на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\obj\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_3_4_MatrixNumber\obj\Debug\net5.0\MOD4_3_3 Умножение матрицы на число.genruntimeconfig.cache
