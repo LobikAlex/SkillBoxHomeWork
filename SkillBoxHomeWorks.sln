@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_4   Сложение
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_5   Перемножение матриц               не доделано", "MOD4_matrix\MatrixXMatrix\MOD4_3_5   Перемножение матриц               не доделано.csproj", "{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD4_3_3 Умножение матрицы на число", "MOD4_3_4_MatrixNumber\MOD4_3_3 Умножение матрицы на число.csproj", "{628B191F-54A9-4631-9A30-CAF287B1DC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_3 Умножение матрицы на число", "..\..\SkillBoxHomeWorks\MOD4_matrix\MatrixNumber1\MOD4_3_3 Умножение матрицы на число.csproj", "{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,10 +69,10 @@ Global
 		{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{628B191F-54A9-4631-9A30-CAF287B1DC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{628B191F-54A9-4631-9A30-CAF287B1DC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{628B191F-54A9-4631-9A30-CAF287B1DC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{628B191F-54A9-4631-9A30-CAF287B1DC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,7 +87,7 @@ Global
 		{2D40BE96-C372-4028-AB80-0BEBBEA61A4F} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
 		{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
 		{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
-		{628B191F-54A9-4631-9A30-CAF287B1DC27} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
+		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DC919AA-3E6F-4B04-9C52-7A4C352A51EC}
