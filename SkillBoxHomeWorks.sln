@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_2  Наименьши�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3  Игра «Угадай число»", "MOD4_matrix\MOD4_3\MOD4_3  Игра «Угадай число».csproj", "{1D7AEEF5-3F35-4AD1-B635-19A8860A1986}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_1   Финансовая таблица", "MOD4_matrix\mod4_z1\MOD4_3_1   Финансовая таблица.csproj", "{CFFBBB1F-233A-4EE9-8380-1190F3176A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_1   Финансовая таблица                 не доделано", "MOD4_matrix\mod4_z1\MOD4_3_1   Финансовая таблица                 не доделано.csproj", "{CFFBBB1F-233A-4EE9-8380-1190F3176A11}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_2   Треугольник Паскаля", "MOD4_matrix\TRiangle\MOD4_3_2   Треугольник Паскаля.csproj", "{2D40BE96-C372-4028-AB80-0BEBBEA61A4F}"
 EndProject
@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_3   Умножени
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_4   Сложение и вычитание матриц", "MOD4_matrix\MatrixPLUS\MOD4_3_4   Сложение и вычитание матриц.csproj", "{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_5   Перемножение матриц", "MOD4_matrix\MatrixXMatrix\MOD4_3_5   Перемножение матриц.csproj", "{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_5   Перемножение матриц               не доделано", "MOD4_matrix\MatrixXMatrix\MOD4_3_5   Перемножение матриц               не доделано.csproj", "{B39FCBA9-ABB5-4EA5-AB0C-9ED6779F18C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
