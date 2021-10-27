@@ -7,11 +7,22 @@ namespace Matrix_Х
         static void Main(string[] args)
         {
             Console.WriteLine("Сложение и вычитание матриц");
+            int str = 0;
+            int column = 0;
 
-            Console.Write("Введите количество строк матрицы: ");
-            int str = int.Parse(Console.ReadLine());
-            Console.Write("Введите количество Столбцов матрицы: ");
-            int column = int.Parse(Console.ReadLine());
+            do
+            {
+                Console.Write("Введите количество строк матрицы: ");
+                str = int.Parse(Console.ReadLine());
+                Console.Write("Введите количество Столбцов матрицы: ");
+                column = int.Parse(Console.ReadLine());
+
+                if (str <= 0 | column <= 0)
+                {
+                    Console.WriteLine("Количество строк и столбцов матрицы должно быть положительным");
+                }
+            } while (str <= 0 | column <= 0);
+
             Console.WriteLine("\n\n");
             
             

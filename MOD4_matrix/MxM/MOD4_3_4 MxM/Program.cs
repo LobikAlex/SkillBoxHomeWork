@@ -123,7 +123,7 @@ namespace MatrixХMatrix
                 for (int j = 0; j < str; j++)
                 {
 
-                    Console.Write(String.Format("{0,4}", MATRIX3[j, i]));
+                    Console.Write(String.Format("{0,4}", MATRIX3[i, j]));
                 }
                 Console.WriteLine("|");
             }
