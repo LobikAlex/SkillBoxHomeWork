@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "MOD4_3_3   Умножение матрицы на число/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/MOD4_3_3   Умножение матрицы на число.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MOD4_3_3   Умножение матрицы на число.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "MOD4_3_3   Умножение матрицы на число/1.0.0": {
-      "type": "project",
-      "path": "../../../../SkillBoxHomeWorks/MOD4_matrix/MatrixNumber1/MOD4_3_3   Умножение матрицы на число.csproj",
-      "msbuildProject": "../../../../SkillBoxHomeWorks/MOD4_matrix/MatrixNumber1/MOD4_3_3   Умножение матрицы на число.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "MOD4_3_3   Умножение матрицы на число >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\Alex\\.nuget\\packages\\": {},
@@ -57,11 +38,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3   Умножение матрицы на число.csproj": {
-              "projectPath": "D:\\C#\\repos\\SkillBoxHomeWorks\\MOD4_matrix\\MatrixNumber1\\MOD4_3_3   Умножение матрицы на число.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

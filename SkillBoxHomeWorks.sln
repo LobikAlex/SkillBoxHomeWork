@@ -23,11 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_2   Треуголь
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_4   Сложение и вычитание матриц", "MOD4_matrix\MatrixPLUS\MOD4_3_4   Сложение и вычитание матриц.csproj", "{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_3   Умножение матрицы на число", "..\..\SkillBoxHomeWorks\MOD4_matrix\MatrixNumber1\MOD4_3_3   Умножение матрицы на число.csproj", "{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_4   Умножение матриц                 не доделано", "MOD4_matrix\MxM\MOD4_3_4 MxM\MOD4_3_4   Умножение матриц                 не доделано.csproj", "{C35B3B11-0AE1-4E24-B3EB-11723D0C5309}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Домашнее задание", "MOD4_matrix\HomeWork\0_Домашнее задание.csproj", "{F1FA1384-19C3-43B5-8900-E45234AFF3EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_3 Умножение матрицы на число", "MOD4_matrix\MOD4_3_4_MatrixNumber\MOD4_3_3 Умножение матрицы на число.csproj", "{4B7AD06F-009C-427A-BDF0-61029F18D390}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,10 +67,6 @@ Global
 		{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C35B3B11-0AE1-4E24-B3EB-11723D0C5309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C35B3B11-0AE1-4E24-B3EB-11723D0C5309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C35B3B11-0AE1-4E24-B3EB-11723D0C5309}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -79,6 +75,10 @@ Global
 		{F1FA1384-19C3-43B5-8900-E45234AFF3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1FA1384-19C3-43B5-8900-E45234AFF3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1FA1384-19C3-43B5-8900-E45234AFF3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7AD06F-009C-427A-BDF0-61029F18D390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7AD06F-009C-427A-BDF0-61029F18D390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7AD06F-009C-427A-BDF0-61029F18D390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7AD06F-009C-427A-BDF0-61029F18D390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,9 +92,9 @@ Global
 		{CFFBBB1F-233A-4EE9-8380-1190F3176A11} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
 		{2D40BE96-C372-4028-AB80-0BEBBEA61A4F} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
 		{72DB0D12-21FC-4DAD-9CFF-5C1AD6D0A2A9} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
-		{EBDF4E1D-0A38-43AD-8CC3-2A69E1762513} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
 		{C35B3B11-0AE1-4E24-B3EB-11723D0C5309} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
 		{F1FA1384-19C3-43B5-8900-E45234AFF3EE} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
+		{4B7AD06F-009C-427A-BDF0-61029F18D390} = {6151328C-C0CA-40DB-9994-3099A40F06DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DC919AA-3E6F-4B04-9C52-7A4C352A51EC}

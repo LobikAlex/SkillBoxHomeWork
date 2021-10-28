@@ -9,10 +9,23 @@ namespace Matrix_Х
             Console.WriteLine("Умножение матрицы на число");
             Console.Write("Введите число: ");
             int n = int.Parse(Console.ReadLine());
-            Console.Write("Введите количество строк матрицы: ");
-            int str = int.Parse(Console.ReadLine());
-            Console.Write("Введите количество Столбцов матрицы: ");
-            int column = int.Parse(Console.ReadLine());
+            int str = 0;
+            int column = 0;
+
+            do
+            {
+                Console.Write("Введите количество строк матрицы: ");
+                str = int.Parse(Console.ReadLine());
+                Console.Write("Введите количество Столбцов матрицы: ");
+                column = int.Parse(Console.ReadLine());
+                if (str <= 0 | column <= 0)
+                {
+                    Console.WriteLine("Количество строк и столбцов матрицы должно быть положительным");
+                }
+            } while (str <= 0 | column <= 0);
+
+
+
 
             //Создаём матрицу
             int[,] MATRIX = new int[str, column];
@@ -82,5 +95,4 @@ namespace Matrix_Х
 //      |  1  3  5  |   |  5  15  25  |
 //  5 х |  4  5  7  | = | 20  25  35  |
 //      |  5  3  1  |   | 25  15   5  |
-//
 //
