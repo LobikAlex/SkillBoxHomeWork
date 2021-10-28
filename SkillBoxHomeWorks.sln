@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Модуль 5. Методы", "Модуль 5. Методы", "{ADEFD904-F042-4061-BBA3-127E0E4F792D}"
 	ProjectSection(SolutionItems) = preProject
-		TextFile1.txt = TextFile1.txt
+		Задания.txt = Задания.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_1   разделения строки на слова", "MOD5_Methods\MOD5_1\MOD5_1   разделения строки на слова.csproj", "{2F7C0011-47C1-4463-8B65-C4DD32D56170}"
@@ -37,6 +37,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_4 Сложить две матрицы в методе", "MOD5_Methods\MOD5_4 Сложить две матрицы в методе\MOD5_4 Сложить две матрицы в методе.csproj", "{66E54400-0707-4626-8019-EF92E0BCAA90}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_5 Умножить две матрицы в методе", "MOD5_Methods\MOD5_5 Умножить две матрицы в методе\MOD5_5 Умножить две матрицы в методе.csproj", "{2A2F596A-2805-4AC0-AAD1-CC0411E95B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_6 Слова через методы", "MOD5_Methods\MOD5_6 Слово через методы\MOD5_6 Слова через методы.csproj", "{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -100,6 +102,10 @@ Global
 		{2A2F596A-2805-4AC0-AAD1-CC0411E95B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A2F596A-2805-4AC0-AAD1-CC0411E95B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A2F596A-2805-4AC0-AAD1-CC0411E95B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -119,6 +125,7 @@ Global
 		{5F0AC4A8-921A-4429-9D8B-658D9E853FBF} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
 		{66E54400-0707-4626-8019-EF92E0BCAA90} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
 		{2A2F596A-2805-4AC0-AAD1-CC0411E95B7D} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
+		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DC919AA-3E6F-4B04-9C52-7A4C352A51EC}
