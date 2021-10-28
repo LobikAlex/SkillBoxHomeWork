@@ -1,0 +1,4 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\финансовая таблица\obj\Debug\net5.0\финансовая таблица.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\финансовая таблица\obj\Debug\net5.0\финансовая таблица.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\финансовая таблица\obj\Debug\net5.0\финансовая таблица.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\финансовая таблица\obj\Debug\net5.0\финансовая таблица.csproj.CoreCompileInputs.cache

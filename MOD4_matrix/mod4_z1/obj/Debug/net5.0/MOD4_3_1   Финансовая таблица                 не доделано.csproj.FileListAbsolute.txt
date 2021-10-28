@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\bin\Debug\net5.0\ref\MOD4_3_1   Финансовая таблица                 не доделано.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\bin\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\ref\MOD4_3_1   Финансовая таблица                 не доделано.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\mod4_z1\obj\Debug\net5.0\MOD4_3_1   Финансовая таблица                 не доделано.genruntimeconfig.cache
