@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\mod4_z1\\MOD4_3_1   Финансовая таблица                 не доделано.csproj",
-      "projectName": "MOD4_3_1   Финансовая таблица                 не доделано",
-      "projectPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\mod4_z1\\MOD4_3_1   Финансовая таблица                 не доделано.csproj",
+      "projectUniqueName": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\mod4_z1\\MOD4_3_1   Финансовая таблица.csproj",
+      "projectName": "MOD4_3_1   Финансовая таблица",
+      "projectPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\mod4_z1\\MOD4_3_1   Финансовая таблица.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
       "outputPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\mod4_z1\\obj\\",
       "projectStyle": "PackageReference",
