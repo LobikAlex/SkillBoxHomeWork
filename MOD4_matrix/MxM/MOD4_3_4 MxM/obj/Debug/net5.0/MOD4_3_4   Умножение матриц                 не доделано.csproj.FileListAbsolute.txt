@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\bin\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\bin\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\bin\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\bin\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\bin\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\bin\Debug\net5.0\ref\MOD4_3_4   Умножение матриц                 не доделано.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\bin\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\ref\MOD4_3_4   Умножение матриц                 не доделано.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD4_matrix\MxM\MOD4_3_4 MxM\obj\Debug\net5.0\MOD4_3_4   Умножение матриц                 не доделано.genruntimeconfig.cache

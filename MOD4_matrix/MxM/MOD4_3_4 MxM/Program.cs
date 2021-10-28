@@ -6,13 +6,14 @@ namespace MatrixХMatrix
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Умножение квадратных матриц");
+            Console.WriteLine("Умножение матриц");    
 
             /// Задание не доделано.
             /// Работает только при условии квадратных матриц.
 
-            /// Матрицу P можно умножить на матрицу K только в том случае,
-            /// если число столбцов матрицы P равняется числу строк матрицы K.
+            /// Матрицу A можно умножить на матрицу B только в том случае,
+            /// если число столбцов матрицы A равняется числу строк матрицы B.
+            
             /// Матрицы, для которых данное условие не выполняется, умножать нельзя
 
 
@@ -22,76 +23,74 @@ namespace MatrixХMatrix
             Console.Write("Введите количество Столбцов матрицы 1: ");
             int column = int.Parse(Console.ReadLine());
             Console.WriteLine("количество строк матрицы 2 = " + column);
+            int str2 = column;
             Console.Write("ведите количество столбцов матрицы 2: ");
             int column2 = int.Parse(Console.ReadLine());
 
             //Создаём матрицы
             int[,] MATRIX1 = new int[str, column];
-            int[,] MATRIX2 = new int[column, str];
-            int[,] MATRIX3 = new int[str, str];
+            int[,] MATRIX2 = new int[str2, column2];
+            int[,] MATRIX3 = new int[str, column2];
 
             Random RND = new Random();
+
+            // Заполняем первую матрицу
             for (int i = 0; i < str; i++)
             {
                 for (int j = 0; j < column; j++)
                 {
                     MATRIX1[i, j] = RND.Next(1, 6);
-                    MATRIX2[j, i] = RND.Next(1, 5);
+                    Console.Write($"{MATRIX1[i,j]}  ");
+                }
+                Console.WriteLine("\n");
+            }
+
+            Console.WriteLine("\n\n\n");
+
+            //Заполняем вторую матрицу
+            for (int i = 0; i < str2; i++)
+            {
+                for (int j = 0; j < column2; j++)
+                {                    
+                    MATRIX2[i, j] = RND.Next(1, 5);
+                    Console.Write($"{MATRIX2[i, j]}  ");
                 }
                 Console.WriteLine("\n");
             }
 
 
-            for (int i = 0; i < column; i++)
+//  Умножаем матрицы           
+            for (int i = 0; i < str; i++)
             {
                 for (int j = 0; j < column2; j++)
                 {
-
-                    MATRIX2[i, j] = RND.Next(1, 5);
-                }
-                Console.WriteLine("\n");
-            }
-
-
-
-
-
-
-            int s = 0;
-
-            for (int k = 0; k < str; k++)
-            {
-                for (int i = 0; i < column2; i++)
-                {
-                    for (int j = 0; j < column; j++)
+                    MATRIX3[i, j] = 0;
+                    for (int k = 0; k < str2; k++)
                     {
-                        s = s + MATRIX1[i, j] * MATRIX2[j, k];
-                        //                        Console.WriteLine("s= s + " + MATRIX1[i, j] + " * " + MATRIX2[j, k]);
+                        MATRIX3[i,j] = MATRIX3[i,j] + MATRIX1[i, k] * MATRIX2[k, j];                        
                     }
-                    MATRIX3[k, i] = s;
-                    //                    Console.Write("  " + s);
-                    s = 0;
-                    //                    Console.WriteLine("\n\n\n");
-
                 }
-
-
             }
 
 
 
             //Вывод
-            for (int i = 0; i < str; i++)
+            int str3 = Math.Max(str, str2);
+
+            for (int i = 0; i < str3; i++)
             {
                 Console.Write("   |");
                 // выводим матрицу
                 for (int j = 0; j < column; j++)
                 {
-                    Console.Write(String.Format("{0,3} ", MATRIX1[i, j]));
+                    if (i < str)
+                    {
+                        Console.Write(String.Format("{0,3} ", MATRIX1[i, j]));
+                    }
                 }
 
                 // Выводим знак умножить
-                if (i == str / 2)
+                if (i == str3 / 2)
                 {
                     Console.Write("| х |");
                 }
@@ -102,13 +101,17 @@ namespace MatrixХMatrix
 
 
                 // выводим вторую матрицу
-                for (int j = 0; j < column; j++)
+                for (int j = 0; j < column2; j++)
                 {
-                    Console.Write(String.Format("{0,3} ", MATRIX2[i, j]));
+                    if (i < str2)
+                    {
+                       Console.Write(String.Format("{0,3} ", MATRIX2[i, j]));
+                    }
+                    
                 }
 
                 // Выводим знак равно
-                if (i == str / 2)
+                if (i == str2 / 2)
                 {
                     Console.Write("| = |");
                 }
@@ -120,10 +123,13 @@ namespace MatrixХMatrix
 
                 // выводим Результирующую матрицу
 
-                for (int j = 0; j < str; j++)
+                for (int j = 0; j < column2; j++)
                 {
-
-                    Console.Write(String.Format("{0,4}", MATRIX3[i, j]));
+                    if (i < str)
+                    {
+                       Console.Write(String.Format("{0,4}", MATRIX3[i, j]));
+                    }
+                    
                 }
                 Console.WriteLine("|");
             }
