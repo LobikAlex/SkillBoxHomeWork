@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>MOD5_5_Умножить_две_матрицы_в_методе</RootNamespace>
+  </PropertyGroup>
+
+</Project>
