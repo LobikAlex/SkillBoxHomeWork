@@ -32,13 +32,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Домашнее зада
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD4_3_3 Умножение матрицы на число", "MOD4_matrix\MOD4_3_4_MatrixNumber\MOD4_3_3 Умножение матрицы на число.csproj", "{4B7AD06F-009C-427A-BDF0-61029F18D390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_3  Умножить матрицу на число", "MOD5_Methods\MOD5_3 Методы матрицы\MOD5_3  Умножить матрицу на число.csproj", "{5F0AC4A8-921A-4429-9D8B-658D9E853FBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_3  Умножить матрицу на число", "MOD5_Methods\MOD5_3 Методы матрицы\MOD5_3  Умножить матрицу на число.csproj", "{5F0AC4A8-921A-4429-9D8B-658D9E853FBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_4 Сложить две матрицы в методе", "MOD5_Methods\MOD5_4 Сложить две матрицы в методе\MOD5_4 Сложить две матрицы в методе.csproj", "{66E54400-0707-4626-8019-EF92E0BCAA90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_4 Сложить две матрицы в методе", "MOD5_Methods\MOD5_4 Сложить две матрицы в методе\MOD5_4 Сложить две матрицы в методе.csproj", "{66E54400-0707-4626-8019-EF92E0BCAA90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_5 Умножить две матрицы в методе", "MOD5_Methods\MOD5_5 Умножить две матрицы в методе\MOD5_5 Умножить две матрицы в методе.csproj", "{2A2F596A-2805-4AC0-AAD1-CC0411E95B7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_5 Умножить две матрицы в методе", "MOD5_Methods\MOD5_5 Умножить две матрицы в методе\MOD5_5 Умножить две матрицы в методе.csproj", "{2A2F596A-2805-4AC0-AAD1-CC0411E95B7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_6 Слова через методы", "MOD5_Methods\MOD5_6 Слово через методы\MOD5_6 Слова через методы.csproj", "{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_6 Слова через методы", "MOD5_Methods\MOD5_6 Слово через методы\MOD5_6 Слова через методы.csproj", "{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_7 Убираем кратные символы", "MOD5_Methods\MOD5_7 Убираем кратные символы\MOD5_7 Убираем кратные символы.csproj", "{4A10E1A1-D85A-4FC1-A9D8-E92EAB1C1C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_8 Прогрессии", "MOD5_Methods\MOD5_8 Прогрессии\MOD5_8 Прогрессии.csproj", "{CC3D969B-6BB8-433C-8563-CB828B33E5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_9 Аккерман", "MOD5_Methods\MOD5_9 Аккерман\MOD5_9 Аккерман.csproj", "{3587661C-BC9B-4F06-A477-F58B75124DC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -106,6 +112,18 @@ Global
 		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A10E1A1-D85A-4FC1-A9D8-E92EAB1C1C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A10E1A1-D85A-4FC1-A9D8-E92EAB1C1C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A10E1A1-D85A-4FC1-A9D8-E92EAB1C1C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A10E1A1-D85A-4FC1-A9D8-E92EAB1C1C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3D969B-6BB8-433C-8563-CB828B33E5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3D969B-6BB8-433C-8563-CB828B33E5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3D969B-6BB8-433C-8563-CB828B33E5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3D969B-6BB8-433C-8563-CB828B33E5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3587661C-BC9B-4F06-A477-F58B75124DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3587661C-BC9B-4F06-A477-F58B75124DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3587661C-BC9B-4F06-A477-F58B75124DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3587661C-BC9B-4F06-A477-F58B75124DC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -126,6 +144,9 @@ Global
 		{66E54400-0707-4626-8019-EF92E0BCAA90} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
 		{2A2F596A-2805-4AC0-AAD1-CC0411E95B7D} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
 		{C3A032E0-AFF7-4255-AFB9-13FCC4855FEA} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
+		{4A10E1A1-D85A-4FC1-A9D8-E92EAB1C1C8C} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
+		{CC3D969B-6BB8-433C-8563-CB828B33E5E9} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
+		{3587661C-BC9B-4F06-A477-F58B75124DC8} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DC919AA-3E6F-4B04-9C52-7A4C352A51EC}
