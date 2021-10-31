@@ -4,74 +4,74 @@ namespace MOD5_8_Прогрессии
 {
     class Program
     {
-        static void Arif(int min, int n, int max)
+        // Метод Ввод n чисел в вектор
+        static double[] InputArr(int n)
         {
+            double[] Arr = new double[n];
 
-            if (n == (max + min) / 2 & (max + min) % 2 == 0)
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine("Эти числа являются элементами арифметической прогрессии");
+                Console.Write(i + 1 + ". ");
+
+                while (!double.TryParse(Console.ReadLine(), out Arr[i]))                    // Блок валидации целых чисел
+                {
+                    Console.WriteLine("Ошибка ввода! Введите целое число");
+                    Console.Write(i + 1 + ". ");
+                }
             }
-            else 
-            {
-                Console.WriteLine("Эти числа НЕ являются элементами арифметической прогрессии");
-            }
+            return Arr;
         }
 
-        static void Geom(int min, int n, int max)
+        //метод Тест на прогресию
+        static void Progressia(double[] A)
         {
+            int m = A.GetLength(0);  //получаем длину вектора
+            int countA = 0;       //тут храним верность условий арифметики 
+            int countG = 0;       //тут храним верность условий геометрии
 
-            if (Math.Abs(n) == Math.Sqrt(max * min) )
+            for (int i = 1; i < m - 1; i++)       
             {
-                Console.WriteLine("Эти числа являются элементами геометрической прогрессии");
+                double min = A[i - 1];
+                double n = A[i];
+                double max = A[i + 1];
+
+                if (n == (max + min) / 2)    // делаем сравнения 3-х соcедних чисел на прогрессию n-2 раза
+                {
+                    countA++;
+                }
+
+                if (Math.Abs(n) == Math.Sqrt(max * min))
+                {
+                    countG++;
+                }    
+         
             }
-            else
+            if (countA == m - 2)
             {
-                Console.WriteLine("Эти числа НЕ являются элементами геометрической прогрессии");
+                Console.WriteLine("Это арифметическая прогрессия");
+            }
+            if (countG == m - 2)
+            {
+                Console.WriteLine("Это геометрическая прогрессия");
             }
         }
-
-
-
-
 
 
         static void Main(string[] args)
         {
-            Console.Write("Нужно ввести 3 числа.\n1. ");
-            int a = Convert.ToInt32(Console.ReadLine());
-            Console.Write("2. ");
-            int b = Convert.ToInt32(Console.ReadLine());
-            Console.Write("3. ");
-            int c = Convert.ToInt32(Console.ReadLine());
-            int max, min, n;
 
+            Console.WriteLine("Сколько чисел будем вводить для определения прогрессии? минимум - 3");
+            int n = Convert.ToInt32(Console.ReadLine());
 
-            // Находим мин и макс из чисел
-            max = a>b ? a : b;
-            max = max > c ? max : c;
-
-            min = a > b ? b : a;
-            min = min < c ? min : c;
-
-            // Находим среднее число
-            if (a != min & a != max)
-            {
-                n = a;
-            }
-            else
-            {
-                if (b!=min & b!= max)
-                {
-                    n = b;
-                }
-                else
-                {
-                    n = c;
-                }
-            }
             
-            Arif(min, n, max);
-            Geom(min, n, max);
+            double[] Arr = InputArr(n);              //ввод чисел в вектор
+
+            
+            Array.Sort(Arr);                     //Сортируем вектор
+
+
+            Progressia(Arr);               //отправляем вектор на проверку прогрессий
+
         }
     }
 }

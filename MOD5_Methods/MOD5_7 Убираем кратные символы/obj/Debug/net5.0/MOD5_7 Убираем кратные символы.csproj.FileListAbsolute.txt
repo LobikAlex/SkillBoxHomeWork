@@ -1,0 +1,15 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\bin\Debug\net5.0\MOD5_7 Убираем кратные символы.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\bin\Debug\net5.0\MOD5_7 Убираем кратные символы.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\bin\Debug\net5.0\MOD5_7 Убираем кратные символы.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\bin\Debug\net5.0\MOD5_7 Убираем кратные символы.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\bin\Debug\net5.0\MOD5_7 Убираем кратные символы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\bin\Debug\net5.0\ref\MOD5_7 Убираем кратные символы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\bin\Debug\net5.0\MOD5_7 Убираем кратные символы.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\obj\Debug\net5.0\MOD5_7 Убираем кратные символы.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\obj\Debug\net5.0\MOD5_7 Убираем кратные символы.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\obj\Debug\net5.0\MOD5_7 Убираем кратные символы.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\obj\Debug\net5.0\MOD5_7 Убираем кратные символы.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\obj\Debug\net5.0\MOD5_7 Убираем кратные символы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\obj\Debug\net5.0\ref\MOD5_7 Убираем кратные символы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\obj\Debug\net5.0\MOD5_7 Убираем кратные символы.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_7 Убираем кратные символы\obj\Debug\net5.0\MOD5_7 Убираем кратные символы.genruntimeconfig.cache

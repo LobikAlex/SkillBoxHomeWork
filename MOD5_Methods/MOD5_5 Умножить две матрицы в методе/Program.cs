@@ -5,8 +5,44 @@ namespace MatrixХMatrix
     class Program
     {
 
-        static int[,] Multy(int str, int str2, int column2, int[,] A, int[,] B)
+        // Метод валидации чисел типа Byte
+        static byte InputByte()
         {
+            byte n;
+            while (!byte.TryParse(Console.ReadLine(), out n))
+            {
+                Console.WriteLine("Ошибка ввода! Введите положительное целое число");
+            }
+            return n;
+        }
+
+
+        //Метод заполняющий матрицу
+        static int[,] InputMatrix(int str, int column)
+        {
+            int[,] A = new int[str, column];
+
+            Random RND = new Random();
+            for (int i = 0; i < str; i++)
+            {
+                for (int j = 0; j < column; j++)
+                {
+                    A[i, j] = RND.Next(10);
+
+                }
+            }
+            return A;
+        }
+
+       //Метод перемножающий матрицы
+        static int[,] Multy(int[,] A, int[,] B)
+        {
+            //получаем значения строк и столбцов
+            int str = A.GetLength(0);
+            int str2 = B.GetLength(0);
+            int column2 = B.GetLength(1);
+
+
             int[,] C = new int[str, column2];
           
             for (int i = 0; i < str; i++)
@@ -22,57 +58,16 @@ namespace MatrixХMatrix
             }
             return C;
         }
-        
-        
-        static void Main(string[] args)
+
+        //Метод выводящий перемножающиеся матрицы
+        static void PrintMulty(int[,] MATRIX1, int[,] MATRIX2, int[,] MATRIX3)
         {
-            Console.WriteLine("Умножение матриц через метод");
-
-            Console.Write("Введите количество строк матрицы 1: ");
-            int str = int.Parse(Console.ReadLine());
-            Console.Write("Введите количество Столбцов матрицы 1: ");
-            int column = int.Parse(Console.ReadLine());
-            Console.WriteLine("количество строк матрицы 2 = " + column);
-            int str2 = column;
-            Console.Write("ведите количество столбцов матрицы 2: ");
-            int column2 = int.Parse(Console.ReadLine());
-
-            //Создаём матрицы
-            int[,] MATRIX1 = new int[str, column];
-            int[,] MATRIX2 = new int[str2, column2];
-            int[,] MATRIX3 = new int[str, column2];
-
-            Random RND = new Random();
-
-            // Заполняем первую матрицу
-            for (int i = 0; i < str; i++)
-            {
-                for (int j = 0; j < column; j++)
-                {
-                    MATRIX1[i, j] = RND.Next(1, 6);
-                    Console.Write($"{MATRIX1[i, j]}  ");
-                }
-                Console.WriteLine("\n");
-            }
-
-            Console.WriteLine("\n\n\n");
-
-            //Заполняем вторую матрицу
-            for (int i = 0; i < str2; i++)
-            {
-                for (int j = 0; j < column2; j++)
-                {
-                    MATRIX2[i, j] = RND.Next(1, 5);
-                    Console.Write($"{MATRIX2[i, j]}  ");
-                }
-                Console.WriteLine("\n");
-            }
+            int str = MATRIX1.GetLength(0);
+            int column = MATRIX1.GetLength(1);
+            int str2 = MATRIX2.GetLength(0);
+            int column2 = MATRIX2.GetLength(1);
 
 
-            MATRIX3 = Multy(str, str2, column2, MATRIX1, MATRIX2);                      // Вызываем метод умножения.  Результат в MATRIX3
- 
-
-      //Вывод
             int str3 = Math.Max(str, str2);
 
             for (int i = 0; i < str3; i++)
@@ -91,8 +86,8 @@ namespace MatrixХMatrix
                 for (int j = 0; j < column; j++)
                 {
                     if (i < str)
-                    {                   
-                      
+                    {
+
 
                         Console.Write(String.Format("{0,3} ", MATRIX1[i, j]));
                     }
@@ -102,7 +97,7 @@ namespace MatrixХMatrix
                     }
                 }
 
-     // Выводим знак умножить
+                // Выводим знак умножить
                 if (i == str3 / 2)
                 {
                     Console.Write("| х |");
@@ -163,6 +158,37 @@ namespace MatrixХMatrix
 
 
             }
+
+        }
+
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Умножение матриц через метод");
+            int str, str2, column, column2;
+
+
+                Console.Write("Введите количество строк матрицы 1: ");
+                str = InputByte();
+                Console.Write("Введите количество Столбцов матрицы 1: ");
+                column = InputByte();
+                Console.WriteLine("количество строк матрицы 2 = " + column);
+                str2 = column;
+                Console.Write("ведите количество столбцов матрицы 2: ");
+                column2 = InputByte();
+            
+            
+//Создаём матрицы через метод
+            int[,] MATRIX1 = InputMatrix(str, column);
+            int[,] MATRIX2 = InputMatrix(str2, column2);
+            
+
+// Получаем результирующую матрицу. Результат в MATRIX3
+            int[,] MATRIX3 = Multy(MATRIX1, MATRIX2);
+
+
+            //Вывод
+            PrintMulty(MATRIX1, MATRIX2, MATRIX3);
         }
     }
 }

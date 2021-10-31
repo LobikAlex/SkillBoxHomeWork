@@ -42,9 +42,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_6 Слова чере�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_7 Убираем кратные символы", "MOD5_Methods\MOD5_7 Убираем кратные символы\MOD5_7 Убираем кратные символы.csproj", "{4A10E1A1-D85A-4FC1-A9D8-E92EAB1C1C8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_8 Прогрессии", "MOD5_Methods\MOD5_8 Прогрессии\MOD5_8 Прогрессии.csproj", "{CC3D969B-6BB8-433C-8563-CB828B33E5E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_8 Прогрессии", "MOD5_Methods\MOD5_8 Прогрессии\MOD5_8 Прогрессии.csproj", "{CC3D969B-6BB8-433C-8563-CB828B33E5E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD5_9 Аккерман", "MOD5_Methods\MOD5_9 Аккерман\MOD5_9 Аккерман.csproj", "{3587661C-BC9B-4F06-A477-F58B75124DC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_9 Аккерман", "MOD5_Methods\MOD5_9 Аккерман\MOD5_9 Аккерман.csproj", "{3587661C-BC9B-4F06-A477-F58B75124DC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

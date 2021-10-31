@@ -4,9 +4,52 @@ namespace Matrix_Х
 {
     class Program
     {
-        // Метод умножающий матрицу на число
-        static int[,] MatrixNumber(int n, int[,] Mat, int str, int column)
+        // Метод валидации чисел типа Byte
+        static byte InputByte()
         {
+            byte n;
+            while (!byte.TryParse(Console.ReadLine(), out n))
+            {
+                Console.WriteLine("Ошибка ввода! Введите положительное целое число");
+            }
+            return n;
+        }
+
+
+        // Метод валидации чисел типа INT
+        static int InputInt()
+        {
+            int n;
+            while (!int.TryParse(Console.ReadLine(), out n))
+            {
+                Console.WriteLine("Ошибка ввода! Введите целое число");
+            }
+            return n;
+        }
+
+
+
+        // Метод заполняющий матрицу
+        static int[,] InputMatrix(int str, int column)
+        {
+            int[,] MATRIX = new int[str, column];
+            Random RND = new Random();
+            for (int i = 0; i < str; i++)
+            {
+                for (int j = 0; j < column; j++)
+                {
+                    MATRIX[i, j] = RND.Next(10);
+                }
+            }
+            return MATRIX;
+        }
+        
+// Метод умножающий матрицу на число
+        static int[,] MatrixNumber(int n, int[,] Mat)
+        {
+            int str = Mat.GetLength(0);
+            int column = Mat.GetLength(1);
+
             int[,] Array = new int[str, column];
             
             for (int i = 0; i < str; i++)
@@ -18,47 +61,12 @@ namespace Matrix_Х
             }
             return Array;
         }
-        
- 
-        static void Main(string[] args)
+
+// Метод выводящий матрицу
+        static void PrintMatrix(int n, int [,] MATRIX, int [,] Result)
         {
-            Console.WriteLine("Умножение матрицы на число через метод");
-
-            Console.Write("Введите число: ");
-            int n = int.Parse(Console.ReadLine());
-            int str = 0;
-            int column = 0;
-
-            do
-            {
-                Console.Write("Введите количество строк матрицы: ");
-                str = int.Parse(Console.ReadLine());
-                Console.Write("Введите количество Столбцов матрицы: ");
-                column = int.Parse(Console.ReadLine());
-                if (str <= 0 | column <= 0)
-                {
-                    Console.WriteLine("Количество строк и столбцов матрицы должно быть положительным");
-                }
-            } while (str <= 0 | column <= 0);
-
-            //Создаём матрицу
-            int[,] MATRIX = new int[str, column];
-            Random RND = new Random();
-            for (int i = 0; i < str; i++)
-            {
-                for (int j = 0; j < column; j++)
-                {
-                    MATRIX[i, j] = RND.Next(10);
-                }
-                Console.WriteLine("\n");
-            }
-
-            
-
-            // Вызов метода
-            int [,] Result = MatrixNumber(n, MATRIX, str, column);
-
-
+            int str = MATRIX.GetLength(0);
+            int column = MATRIX.GetLength(1);
 
 
             for (int i = 0; i < str; i++)
@@ -97,6 +105,31 @@ namespace Matrix_Х
                 }
                 Console.WriteLine("|");
             }
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Умножение матрицы на число через метод");
+
+            // Для ввода 
+            Console.Write("Введите число: ");
+            int n = InputInt();
+            Console.Write("Введите количество строк матрицы: ");
+            int str = InputByte();
+            Console.Write("Введите количество Столбцов матрицы: ");
+            int column = InputByte();
+
+
+
+            // ВЫзываем метод заполняющий матрицу
+            int [,] MATRIX = InputMatrix(str, column);
+    
+// Вызов метода умножающий матрицу на число
+            int [,] Result = MatrixNumber(n, MATRIX);
+
+// Вызов метода выводящего матрицу
+            PrintMatrix(n, MATRIX, Result);
+ 
         }  
     }
 }

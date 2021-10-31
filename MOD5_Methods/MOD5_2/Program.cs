@@ -11,22 +11,24 @@ namespace MOD5_2
             return SplitArray;
         }
 
-
-        static void ReversWords(string str)
+        
+        static string ReversWords(string str)
         {
             string[] SplitArray = Split(str);          // Вызываем разделение строки на массив. Посылаем строку, получаем массив.
+            string result = "";
 
             for (int i = 1; i <= SplitArray.Length; i++)
             {
-                Console.Write(SplitArray[SplitArray.Length - i] + " ");
+                result += SplitArray[SplitArray.Length - i] + " ";               
             }
-
+            return result;
         }
+
 
         static void Main(string[] args)
         {
             string inputPhrase = "Я помню чудное мгновенье";
-            ReversWords(inputPhrase);
+            Console.WriteLine(ReversWords(inputPhrase));
             Console.ReadKey();
         }
     }

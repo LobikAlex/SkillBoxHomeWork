@@ -4,14 +4,21 @@ namespace MOD5_7_Убираем_кратные_символы
 {
     class Program
     {
+
+        /// <summary>
+        /// Метод, удаляющий из строки дубликаты
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         static string nonDuplicates(string str)
         {
-            string result = "" + str[0];
-            for (int i = 1; i < str.Length; i++)
+            str = str.ToLower();                  // преобразуем строку к нижнему регистру
+            string result = "" + str[0];          // Результирующей строке присваиваем первый символ
+            for (int i = 1; i < str.Length; i++)  //Идем циклом по всем символам
             {
-                if (str[i] != str[i-1])
+                if (str[i] != str[i-1])           // если следующий символ отличается от предыдущего, то 
                 {
-                    result += str[i];
+                    result += str[i];             // добавляем его в новую сторку
                 }                   
             }
             return result;

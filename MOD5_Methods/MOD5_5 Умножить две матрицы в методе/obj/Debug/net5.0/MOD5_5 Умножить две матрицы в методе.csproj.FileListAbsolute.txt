@@ -13,3 +13,4 @@ D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_5 Умножить дв
 D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_5 Умножить две матрицы в методе\obj\Debug\net5.0\ref\MOD5_5 Умножить две матрицы в методе.dll
 D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_5 Умножить две матрицы в методе\obj\Debug\net5.0\MOD5_5 Умножить две матрицы в методе.pdb
 D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_5 Умножить две матрицы в методе\obj\Debug\net5.0\MOD5_5 Умножить две матрицы в методе.genruntimeconfig.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_5 Умножить две матрицы в методе\obj\Debug\net5.0\MOD5_5 Умножить две матрицы в методе.csproj.AssemblyReference.cache
