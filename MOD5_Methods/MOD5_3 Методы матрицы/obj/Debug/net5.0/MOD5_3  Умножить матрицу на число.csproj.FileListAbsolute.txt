@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Умножить матрицу на число.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Умножить матрицу на число.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Умножить матрицу на число.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Умножить матрицу на число.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Умножить матрицу на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\ref\MOD5_3  Умножить матрицу на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Умножить матрицу на число.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Умножить матрицу на число.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Умножить матрицу на число.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Умножить матрицу на число.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Умножить матрицу на число.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Умножить матрицу на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\ref\MOD5_3  Умножить матрицу на число.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Умножить матрицу на число.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Умножить матрицу на число.genruntimeconfig.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Умножить матрицу на число.csproj.AssemblyReference.cache

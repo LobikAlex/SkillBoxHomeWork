@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj": {}
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj": {}
   },
   "projects": {
-    "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj": {
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj",
+        "projectUniqueName": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj",
         "projectName": "MOD4_3_3 Умножение матрицы на число",
-        "projectPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\obj\\",
+        "projectPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj",
+        "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Compserv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
