@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\bin\Debug\net5.0\MOD5_9 Аккерман.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\bin\Debug\net5.0\MOD5_9 Аккерман.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\bin\Debug\net5.0\MOD5_9 Аккерман.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\bin\Debug\net5.0\MOD5_9 Аккерман.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\bin\Debug\net5.0\MOD5_9 Аккерман.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\bin\Debug\net5.0\ref\MOD5_9 Аккерман.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\bin\Debug\net5.0\MOD5_9 Аккерман.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\MOD5_9 Аккерман.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\MOD5_9 Аккерман.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\MOD5_9 Аккерман.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\MOD5_9 Аккерман.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\MOD5_9 Аккерман.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\MOD5_9 Аккерман.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\ref\MOD5_9 Аккерман.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\MOD5_9 Аккерман.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_9 Аккерман\obj\Debug\net5.0\MOD5_9 Аккерман.genruntimeconfig.cache

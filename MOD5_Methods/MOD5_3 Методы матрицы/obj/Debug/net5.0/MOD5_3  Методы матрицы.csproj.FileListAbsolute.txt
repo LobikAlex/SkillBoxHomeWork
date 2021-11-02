@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Методы матрицы.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Методы матрицы.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Методы матрицы.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Методы матрицы.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Методы матрицы.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Методы матрицы.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Методы матрицы.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Методы матрицы.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Методы матрицы.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Методы матрицы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\ref\MOD5_3  Методы матрицы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\bin\Debug\net5.0\MOD5_3  Методы матрицы.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Методы матрицы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\ref\MOD5_3  Методы матрицы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Методы матрицы.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_3 Методы матрицы\obj\Debug\net5.0\MOD5_3  Методы матрицы.genruntimeconfig.cache

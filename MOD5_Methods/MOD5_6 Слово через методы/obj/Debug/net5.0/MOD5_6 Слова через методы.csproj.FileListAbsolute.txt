@@ -1,0 +1,15 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слова через методы.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слова через методы.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слова через методы.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слова через методы.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слова через методы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\ref\MOD5_6 Слова через методы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слова через методы.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слова через методы.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слова через методы.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слова через методы.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слова через методы.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слова через методы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\ref\MOD5_6 Слова через методы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слова через методы.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слова через методы.genruntimeconfig.cache

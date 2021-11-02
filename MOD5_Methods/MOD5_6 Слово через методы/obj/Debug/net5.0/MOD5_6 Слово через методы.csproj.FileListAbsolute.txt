@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слово через методы.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слово через методы.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слово через методы.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слово через методы.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слово через методы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\ref\MOD5_6 Слово через методы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\bin\Debug\net5.0\MOD5_6 Слово через методы.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слово через методы.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слово через методы.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слово через методы.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слово через методы.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слово через методы.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слово через методы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\ref\MOD5_6 Слово через методы.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слово через методы.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_6 Слово через методы\obj\Debug\net5.0\MOD5_6 Слово через методы.genruntimeconfig.cache

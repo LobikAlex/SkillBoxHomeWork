@@ -79,13 +79,24 @@ namespace MatrixХMatrix
 
             for (int i = 0; i < str3; i++)
             {
-                Console.Write("   |");
+                if (i < str)
+                {
+                    Console.Write("|");
+                }
+                else
+                {
+                    Console.Write(" ");
+                }
                 // выводим матрицу
                 for (int j = 0; j < column; j++)
                 {
                     if (i < str)
                     {
                         Console.Write(String.Format("{0,3} ", MATRIX1[i, j]));
+                    }
+                    else
+                    {
+                        Console.Write("    ");
                     }
                 }
 
@@ -96,7 +107,15 @@ namespace MatrixХMatrix
                 }
                 else
                 {
-                    Console.Write("|   |");
+                    if ( i >= str)
+                    {
+                        Console.Write("    |");
+                    }
+                    else
+                    {
+                        Console.Write("|   |");  
+                    }
+                    
                 }
 
 
@@ -107,11 +126,14 @@ namespace MatrixХMatrix
                     {
                        Console.Write(String.Format("{0,3} ", MATRIX2[i, j]));
                     }
-                    
+                    else
+                    {
+                        Console.Write("    ");
+                    }
                 }
 
                 // Выводим знак равно
-                if (i == str2 / 2)
+                if (i == str3 / 2)
                 {
                     Console.Write("| = |");
                 }
@@ -129,9 +151,15 @@ namespace MatrixХMatrix
                     {
                        Console.Write(String.Format("{0,4}", MATRIX3[i, j]));
                     }
-                    
+                    else
+                    {
+                        Console.Write("    ");
+                    }
                 }
-                Console.WriteLine("|");
+
+                 Console.WriteLine("|");
+
+                
             }
         }
     }

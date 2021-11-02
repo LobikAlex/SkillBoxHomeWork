@@ -1,0 +1,15 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\obj\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\obj\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\obj\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\obj\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\bin\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\bin\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\bin\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\bin\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\bin\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\bin\Debug\net5.0\ref\MOD5_4 Сложить две матрицы в методе.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\bin\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\obj\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\obj\Debug\net5.0\ref\MOD5_4 Сложить две матрицы в методе.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\obj\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_4 Сложить две матрицы в методе\obj\Debug\net5.0\MOD5_4 Сложить две матрицы в методе.genruntimeconfig.cache

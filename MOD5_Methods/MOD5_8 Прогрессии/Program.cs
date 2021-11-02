@@ -4,6 +4,7 @@ namespace MOD5_8_Прогрессии
 {
     class Program
     {
+
         // Метод валидации чисел типа Byte
         static byte InputByte()
         {
@@ -14,6 +15,7 @@ namespace MOD5_8_Прогрессии
             }
             return n;
         }
+
 
         // Метод Ввод n чисел в вектор
         static double[] InputArr(int n)
@@ -72,7 +74,8 @@ namespace MOD5_8_Прогрессии
         {
 
             Console.WriteLine("Сколько чисел будем вводить для определения прогрессии? минимум - 3");
-            int n = InputByte();                     // 
+
+            int n = InputByte();                     // отправляем на валидацию ввода
                         
             double[] Arr = InputArr(n);              // ввод чисел в вектор
 

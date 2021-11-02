@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MOD5_4 Сложить две матрицы в методе/1.0.0": {
+        "runtime": {
+          "MOD5_4 Сложить две матрицы в методе.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MOD5_4 Сложить две матрицы в методе/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
