@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\bin\Debug\net5.0\Записная книжка.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\bin\Debug\net5.0\Записная книжка.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\bin\Debug\net5.0\Записная книжка.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\bin\Debug\net5.0\Записная книжка.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\bin\Debug\net5.0\Записная книжка.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\bin\Debug\net5.0\ref\Записная книжка.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\bin\Debug\net5.0\Записная книжка.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\Записная книжка.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\Записная книжка.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\Записная книжка.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\Записная книжка.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\Записная книжка.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\Записная книжка.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\ref\Записная книжка.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\Записная книжка.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Записная книжка\obj\Debug\net5.0\Записная книжка.genruntimeconfig.cache

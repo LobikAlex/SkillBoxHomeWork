@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj": {}
+    "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj": {
+    "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
+        "projectUniqueName": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
         "projectName": "MOD5_9 Аккерман",
-        "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
-        "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\obj\\",
+        "projectPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Compserv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
