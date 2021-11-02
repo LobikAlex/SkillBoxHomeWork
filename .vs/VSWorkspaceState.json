@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\MOD4_matrix",
-    "\\MOD4_matrix\\MatrixXMatrix"
+    "\\MOD4_matrix\\MxM",
+    "\\MOD4_matrix\\MxM\\MOD4_3_4 MxM"
   ],
-  "SelectedNode": "\\MOD4_matrix\\MatrixXMatrix\\Program.cs",
+  "SelectedNode": "\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

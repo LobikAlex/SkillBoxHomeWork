@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Compserv\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\MOD5_4 Сложить две матрицы в методе.csproj",
+      "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\MOD5_4 Сложить две матрицы в методе.csproj",
       "projectName": "MOD5_4 Сложить две матрицы в методе",
-      "projectPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\MOD5_4 Сложить две матрицы в методе.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\obj\\",
+      "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\MOD5_4 Сложить две матрицы в методе.csproj",
+      "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Compserv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

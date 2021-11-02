@@ -4,6 +4,19 @@ namespace MOD5_8_Прогрессии
 {
     class Program
     {
+
+        // Метод валидации чисел типа Byte
+        static byte InputByte()
+        {
+            byte n;
+            while (!byte.TryParse(Console.ReadLine(), out n))
+            {
+                Console.WriteLine("Ошибка ввода! Введите положительное целое число");
+            }
+            return n;
+        }
+
+
         // Метод Ввод n чисел в вектор
         static double[] InputArr(int n)
         {
@@ -61,16 +74,16 @@ namespace MOD5_8_Прогрессии
         {
 
             Console.WriteLine("Сколько чисел будем вводить для определения прогрессии? минимум - 3");
-            int n = Convert.ToInt32(Console.ReadLine());
+
+            int n = InputByte();                     // отправляем на валидацию ввода
+                        
+            double[] Arr = InputArr(n);              // ввод чисел в вектор
 
             
-            double[] Arr = InputArr(n);              //ввод чисел в вектор
-
-            
-            Array.Sort(Arr);                     //Сортируем вектор
+            Array.Sort(Arr);                     // Сортируем вектор
 
 
-            Progressia(Arr);               //отправляем вектор на проверку прогрессий
+            Progressia(Arr);               // отправляем вектор на проверку прогрессий
 
         }
     }
