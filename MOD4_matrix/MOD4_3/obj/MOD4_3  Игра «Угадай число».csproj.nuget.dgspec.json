@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj": {}
+    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj": {
+    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj",
+        "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj",
         "projectName": "MOD4_3  Игра «Угадай число»",
-        "projectPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj",
+        "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj",
         "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\obj\\",
+        "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

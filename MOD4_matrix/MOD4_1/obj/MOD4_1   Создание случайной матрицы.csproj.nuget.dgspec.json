@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj": {}
+    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj": {
+    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj",
+        "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj",
         "projectName": "MOD4_1   Создание случайной матрицы",
-        "projectPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj",
+        "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj",
         "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\obj\\",
+        "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

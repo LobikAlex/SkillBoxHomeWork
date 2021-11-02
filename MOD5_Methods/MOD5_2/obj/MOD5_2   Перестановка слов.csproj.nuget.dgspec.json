@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj": {}
+    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj": {
+    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj",
+        "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj",
         "projectName": "MOD5_2   Перестановка слов",
-        "projectPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj",
+        "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj",
         "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\obj\\",
+        "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
