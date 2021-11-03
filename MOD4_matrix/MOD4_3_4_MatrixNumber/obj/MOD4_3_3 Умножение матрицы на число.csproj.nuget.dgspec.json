@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj": {}
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj": {
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj",
+        "projectUniqueName": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj",
         "projectName": "MOD4_3_3 Умножение матрицы на число",
-        "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj",
+        "projectPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\MOD4_3_3 Умножение матрицы на число.csproj",
         "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\obj\\",
+        "outputPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3_4_MatrixNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

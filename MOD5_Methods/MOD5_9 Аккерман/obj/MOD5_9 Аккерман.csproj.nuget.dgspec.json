@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj": {}
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj": {
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
+        "projectUniqueName": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
         "projectName": "MOD5_9 Аккерман",
-        "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
+        "projectPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
         "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\obj\\",
+        "outputPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj": {}
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj": {
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj",
+        "projectUniqueName": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj",
         "projectName": "MOD5_3  Умножить матрицу на число",
-        "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj",
+        "projectPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj",
         "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\obj\\",
+        "outputPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

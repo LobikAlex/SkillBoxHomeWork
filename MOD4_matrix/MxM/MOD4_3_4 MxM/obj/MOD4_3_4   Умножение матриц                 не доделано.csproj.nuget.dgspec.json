@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj": {}
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj": {
+    "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj",
+        "projectUniqueName": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj",
         "projectName": "MOD4_3_4   Умножение матриц                 не доделано",
-        "projectPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj",
+        "projectPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj",
         "packagesPath": "C:\\Users\\Compserv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compserv\\Source\\Repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\obj\\",
+        "outputPath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
