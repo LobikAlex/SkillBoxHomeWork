@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "l8eh2GUGH2dOQxZUthDq7XRPPUQjhUz325zGiyJj2JFLbEW+DZxhQbiGdejkSeQSW835tEFn8vZm3ZYXV6jFOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_2\\MOD4_2  Наименьший элемент.csproj",
-=======
-  "dgSpecHash": "ubUk2V0Nhqt27LkC9Fpio3BtrRTEaH9M7tZXzwcLlwyZNeb5E4g+dXAlc4XfoyKqrs4SIrbh2XF+sS4/VfPuZw==",
-  "success": true,
-  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_2\\MOD4_2  Наименьший элемент.csproj",
->>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_2\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

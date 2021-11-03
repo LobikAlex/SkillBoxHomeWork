@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "oesBOhWmBSLOvdsD8PDl7pQfJUv1C6ep3V7r/PMtrcR30gtZBtgrxaa6DYbI8Ca4POmx4k6zRy+hSvqbAOg4JA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
-=======
-  "dgSpecHash": "KX892uPU08A6TM22gtJ5Qu7FseSugE2yCnETpDhnI66E9BIOAQkpWI5kJTxK2lNl4a8iepGVvDG+oeo4JNiSxA==",
-  "success": true,
-  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\MOD5_9 Аккерман.csproj",
->>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_9 Аккерман\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

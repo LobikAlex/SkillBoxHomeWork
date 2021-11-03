@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "ufgHGLGY/32vZxBecpcalRY5jNH5/i7Ho+G86Mb8A3VNYYVjaQLqq4ebDDTtE85n8MvhmKlREyFDQs+B2bzB8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_6 Слово через методы\\MOD5_6 Слова через методы.csproj",
-=======
-  "dgSpecHash": "XBTkkioLNuMUflvh1eY27GpXaUB2hONy6+PwH0kN1UyNrcsiU/95G9yI6NG+9Qa0J2ODbDYCw429xfBpzobVYQ==",
-  "success": true,
-  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_6 Слово через методы\\MOD5_6 Слова через методы.csproj",
->>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_6 Слово через методы\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

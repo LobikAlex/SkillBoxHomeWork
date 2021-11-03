@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "wILbpkBlZAUSTBOCwkntTjXiDgRSseRyq0HCW8El9QvFILp3uD/x246/148lmIu9fCoGeVrn0e0ajPvyUMoulw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj",
-=======
-  "dgSpecHash": "jUalJmFqdfq1Q62GQyLNGuKj25irYzM69pi84UyxRNKEStGnvGO9ngnCScWylQa0TbUIooy9MbDq9XmHMlsJZA==",
-  "success": true,
-  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\MOD4_3  Игра «Угадай число».csproj",
->>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_3\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

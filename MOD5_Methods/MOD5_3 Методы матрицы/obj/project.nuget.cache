@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "b+7+FKj+O2i7xkqMxz1kO6yif+Fb2IRaRbXgRvRR43Hr0sX5n+zdB3b69Qex6Xp4WbAe6p9DzQw6iZQCJiJD4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj",
-=======
-  "dgSpecHash": "RhNOlQHXbUmKINIlstPA9QBL9TSqmk/U6bKTeJQchWEgdDb8QMYyzCnxtMNR8PoUuHrAbn0jA3ILzDv8HprndQ==",
-  "success": true,
-  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\MOD5_3  Умножить матрицу на число.csproj",
->>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_3 Методы матрицы\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
