@@ -53,7 +53,7 @@ namespace MOD5_8_Прогрессии
                     countA++;
                 }
 
-                if (Math.Abs(n) == Math.Sqrt(max * min))
+                if (Math.Abs(n) == Math.Sqrt(max * min) & n !=0)
                 {
                     countG++;
                 }    
@@ -67,6 +67,12 @@ namespace MOD5_8_Прогрессии
             {
                 Console.WriteLine("Это геометрическая прогрессия");
             }
+            if (countA != m - 2 & countG != m - 2)
+            {
+                Console.WriteLine("Прогрессий нет");
+            }
+
+
         }
 
 
@@ -84,6 +90,7 @@ namespace MOD5_8_Прогрессии
 
 
             Progressia(Arr);               // отправляем вектор на проверку прогрессий
+            Console.ReadKey();
 
         }
     }
