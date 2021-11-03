@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "7GZAAhSh5F1Uk8iDT/ive1FG32hkWOa2Zil3glH3RWOGpJvouAetNQu9FyK4QwHPihbQqAFvVUP3XsyfogsMCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_5 Умножить две матрицы в методе\\MOD5_5 Умножить две матрицы в методе.csproj",
+=======
+  "dgSpecHash": "G4s6uZD935oTpKCTTDUqE1eDZdJXOhyQPcd1bChJ0PNu9twqIetVpNgZiGXCoI4C/fcqeYCuB5CwgGUXEQcKAA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_5 Умножить две матрицы в методе\\MOD5_5 Умножить две матрицы в методе.csproj",
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
   "logs": []
 }

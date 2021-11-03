@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "29kD842OPAmIE8DX9asHMFSbrhFCZAxzRr/BF0diFIeKTWCEVeUNpC+4fjHdqCEjmcD+L6d+DJeKkoBepV/4Hw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_7 Убираем кратные символы\\MOD5_7 Убираем кратные символы.csproj",
+=======
+  "dgSpecHash": "c0IlEcB1IkKmgnjSXZfQsTwgxM8arVVhPQBL7VmItsuD7kYMXxSbBnKKvsC6yLuJFmh2I3P1ztqTqVYx72378w==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_7 Убираем кратные символы\\MOD5_7 Убираем кратные символы.csproj",
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
   "logs": []
 }

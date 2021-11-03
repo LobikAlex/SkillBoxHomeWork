@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "M1I298Uu9C1TEY2NEkt7A4iM30e64zUPVMB7AR+qHs3GqBz4YmVWVXl3WMQoVjOss9nAZnxRaZatykixz5TJBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj",
+=======
+  "dgSpecHash": "OP2lzYDHxImn2lqU6U/M2obqsr1CD1wpQmWY29HeKpWlSEaLkuMuCz0eqXN43ERey+5vh6eCRGLuVJ+DAdUc+w==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj",
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
   "logs": []
 }

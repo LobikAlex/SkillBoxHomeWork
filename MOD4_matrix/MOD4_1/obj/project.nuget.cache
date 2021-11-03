@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OH1mTiCfXPrzE1eTyFWHGQQd2W7GNECLLHi2Im24id3PzcpFseHUfBhJArsCEQxyaHRgLnxcXibk44xKdATYog==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj",
+=======
+  "dgSpecHash": "W6G9Ecr8ppruz7HKuShIZyB+vh0x8iOesp5RycJXCc2BQbkdM2tvKOjRRdY21FUsw3S4ueLjitReHfNs0NGbLQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj",
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
   "logs": []
 }

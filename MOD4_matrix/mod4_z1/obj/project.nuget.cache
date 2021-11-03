@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "M0PPxq/jyicxTdnluai13W6EIHquZZBuNujkIAxZTZzUcIPOtWLL/Aetdq9QjehuVYFLBwvUecz/KHUt1I3F5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\mod4_z1\\MOD4_3_1   Финансовая таблица.csproj",
+=======
+  "dgSpecHash": "EGGQDz1t0k/YDxMlWW76a0ne7L27+CfXbQjc39+qdkwZL/Fd70FyySWcPNBkEUtvhtIH2+ulipJ/JiUuJxEchA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\mod4_z1\\MOD4_3_1   Финансовая таблица.csproj",
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -46,6 +46,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_8 Прогрессии
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOD5_9 Аккерман", "MOD5_Methods\MOD5_9 Аккерман\MOD5_9 Аккерман.csproj", "{3587661C-BC9B-4F06-A477-F58B75124DC8}"
 EndProject
+<<<<<<< HEAD
+=======
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Модуль 6. Файлы", "Модуль 6. Файлы", "{6E3325FB-DD5F-45BC-94AA-46A36A83D02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Записная книжка", "MOD6_Files\Записная книжка\Записная книжка.csproj", "{4176B5F7-1D00-4C1F-A2DE-A298B7B9600B}"
+EndProject
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -124,6 +131,10 @@ Global
 		{3587661C-BC9B-4F06-A477-F58B75124DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3587661C-BC9B-4F06-A477-F58B75124DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3587661C-BC9B-4F06-A477-F58B75124DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4176B5F7-1D00-4C1F-A2DE-A298B7B9600B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4176B5F7-1D00-4C1F-A2DE-A298B7B9600B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4176B5F7-1D00-4C1F-A2DE-A298B7B9600B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4176B5F7-1D00-4C1F-A2DE-A298B7B9600B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -147,6 +158,7 @@ Global
 		{4A10E1A1-D85A-4FC1-A9D8-E92EAB1C1C8C} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
 		{CC3D969B-6BB8-433C-8563-CB828B33E5E9} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
 		{3587661C-BC9B-4F06-A477-F58B75124DC8} = {ADEFD904-F042-4061-BBA3-127E0E4F792D}
+		{4176B5F7-1D00-4C1F-A2DE-A298B7B9600B} = {6E3325FB-DD5F-45BC-94AA-46A36A83D02C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DC919AA-3E6F-4B04-9C52-7A4C352A51EC}

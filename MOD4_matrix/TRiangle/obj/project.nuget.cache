@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "kt28DIIXPTb2J09WVyQOpV/h0ray4G696Hm3QLZBmS1lM/BmCkXm7rFNGGCycsl7CoIp9rO+aP+egSeekWBA3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\MOD4_3_2   Треугольник Паскаля.csproj",
+=======
+  "dgSpecHash": "oLnLmRF3NNK8upcFqZfbKEPZc05c4onTWkLzM/Iz46YokiVclUxdxugAHsdER0QxNgM2KpZmZlI59NDXV/rpuQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\MOD4_3_2   Треугольник Паскаля.csproj",
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
   "logs": []
 }

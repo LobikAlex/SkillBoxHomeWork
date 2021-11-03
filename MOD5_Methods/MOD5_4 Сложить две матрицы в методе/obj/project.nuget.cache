@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "cEBxa3yIhP3GeMPVjrNkCpSiBNYwzUsah4Q9PVohkqqc7Zqv60uBjKDRlWVAf+4lecmyxAAGOuiG2ukwx06Wag==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\MOD5_4 Сложить две матрицы в методе.csproj",
+=======
+  "dgSpecHash": "tYIefOdDds+iYdXM0Opqk2A4p5J0JolNlptJGz2ynYaZoj/gpTSf5M+7jujdX13/mnmPXk6zsEbAOiQYVv1yvw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\MOD5_4 Сложить две матрицы в методе.csproj",
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "677XT2wHsegCItrcwBSUgbfezutw0pCHIsVOMLYf+ShNDifCU6OtijLztLVdXkIg1lessOmMec9S6BdtOBcN6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj",
+=======
+  "dgSpecHash": "ry+W74TKJlHh9gx9RfqZ9MVsHRiQZuVixS4t38lDzJg4K5+hPjkJHz1bZUz80XfV7YVocT0UnaHxxDBCMa/ALw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj",
+>>>>>>> 8a035956b286c456ad90e535b498fb4c4f5deb3d
   "expectedPackageFiles": [],
   "logs": []
 }
