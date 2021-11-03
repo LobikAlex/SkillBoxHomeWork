@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cEBxa3yIhP3GeMPVjrNkCpSiBNYwzUsah4Q9PVohkqqc7Zqv60uBjKDRlWVAf+4lecmyxAAGOuiG2ukwx06Wag==",
+  "dgSpecHash": "tYIefOdDds+iYdXM0Opqk2A4p5J0JolNlptJGz2ynYaZoj/gpTSf5M+7jujdX13/mnmPXk6zsEbAOiQYVv1yvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\MOD5_4 Сложить две матрицы в методе.csproj",
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\MOD5_4 Сложить две матрицы в методе.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_4 Сложить две матрицы в методе\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

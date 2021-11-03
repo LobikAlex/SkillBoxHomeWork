@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kt28DIIXPTb2J09WVyQOpV/h0ray4G696Hm3QLZBmS1lM/BmCkXm7rFNGGCycsl7CoIp9rO+aP+egSeekWBA3g==",
+  "dgSpecHash": "oLnLmRF3NNK8upcFqZfbKEPZc05c4onTWkLzM/Iz46YokiVclUxdxugAHsdER0QxNgM2KpZmZlI59NDXV/rpuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\MOD4_3_2   Треугольник Паскаля.csproj",
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\MOD4_3_2   Треугольник Паскаля.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\TRiangle\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

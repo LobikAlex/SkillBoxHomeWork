@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "677XT2wHsegCItrcwBSUgbfezutw0pCHIsVOMLYf+ShNDifCU6OtijLztLVdXkIg1lessOmMec9S6BdtOBcN6A==",
+  "dgSpecHash": "ry+W74TKJlHh9gx9RfqZ9MVsHRiQZuVixS4t38lDzJg4K5+hPjkJHz1bZUz80XfV7YVocT0UnaHxxDBCMa/ALw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj",
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\MOD4_3_4   Умножение матриц                 не доделано.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MxM\\MOD4_3_4 MxM\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

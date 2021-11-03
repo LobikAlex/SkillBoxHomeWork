@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jUemIEBgwE6UnuNrWWPR6m4ijZ8B3zT2gsgB+U47ni3zyBJrPCYQDYC5ZW5thP0ocDZ1QurdmY/DgmusWNZhBg==",
+  "dgSpecHash": "kTjOuMx4CIHCrPUYoM3VTqQRsPgAALK/8aEIMT5O8Nt7e1vfQ7cxEqI7KNTIQopeHIe7iimIrJ+KHELe21VWNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MatrixPLUS\\MOD4_3_4   Сложение и вычитание матриц.csproj",
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MatrixPLUS\\MOD4_3_4   Сложение и вычитание матриц.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MatrixPLUS\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

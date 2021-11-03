@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M1I298Uu9C1TEY2NEkt7A4iM30e64zUPVMB7AR+qHs3GqBz4YmVWVXl3WMQoVjOss9nAZnxRaZatykixz5TJBg==",
+  "dgSpecHash": "OP2lzYDHxImn2lqU6U/M2obqsr1CD1wpQmWY29HeKpWlSEaLkuMuCz0eqXN43ERey+5vh6eCRGLuVJ+DAdUc+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj",
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\MOD5_2   Перестановка слов.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD5_Methods\\MOD5_2\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

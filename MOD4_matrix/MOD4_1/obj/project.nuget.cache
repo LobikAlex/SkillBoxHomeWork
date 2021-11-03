@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OH1mTiCfXPrzE1eTyFWHGQQd2W7GNECLLHi2Im24id3PzcpFseHUfBhJArsCEQxyaHRgLnxcXibk44xKdATYog==",
+  "dgSpecHash": "W6G9Ecr8ppruz7HKuShIZyB+vh0x8iOesp5RycJXCc2BQbkdM2tvKOjRRdY21FUsw3S4ueLjitReHfNs0NGbLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj",
+  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\MOD4_1   Создание случайной матрицы.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\Compserv\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD4_matrix\\MOD4_1\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
