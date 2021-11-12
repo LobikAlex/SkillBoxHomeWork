@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\bin\Debug\net5.0\WriteBook.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\bin\Debug\net5.0\WriteBook.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\bin\Debug\net5.0\WriteBook.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\bin\Debug\net5.0\WriteBook.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\bin\Debug\net5.0\WriteBook.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\bin\Debug\net5.0\ref\WriteBook.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\bin\Debug\net5.0\WriteBook.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\WriteBook.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\WriteBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\WriteBook.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\WriteBook.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\WriteBook.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\WriteBook.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\ref\WriteBook.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\WriteBook.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\WriteBook\obj\Debug\net5.0\WriteBook.genruntimeconfig.cache

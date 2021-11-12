@@ -1,0 +1,16 @@
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\bin\Debug\net5.0\Hakaton.exe
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\bin\Debug\net5.0\Hakaton.deps.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\bin\Debug\net5.0\Hakaton.runtimeconfig.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\bin\Debug\net5.0\Hakaton.runtimeconfig.dev.json
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\bin\Debug\net5.0\Hakaton.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\bin\Debug\net5.0\ref\Hakaton.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\bin\Debug\net5.0\Hakaton.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\Hakaton.csproj.AssemblyReference.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\Hakaton.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\Hakaton.AssemblyInfoInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\Hakaton.AssemblyInfo.cs
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\Hakaton.csproj.CoreCompileInputs.cache
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\Hakaton.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\ref\Hakaton.dll
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\Hakaton.pdb
+D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD6_Files\Hakaton\obj\Debug\net5.0\Hakaton.genruntimeconfig.cache
