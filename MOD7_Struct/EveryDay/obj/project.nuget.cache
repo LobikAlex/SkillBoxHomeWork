@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "O2RdujGNQcHTWCCl/AUTq7pXgM0QglUOcyXceRSlurd51RMiDV3kWz/KoydBymca9fs6ypVehWV/1ENHVTeKRQ==",
-  "success": true,
-  "projectFilePath": "D:\\C#\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD7_Struct\\EveryDay\\EveryDay.csproj",
+  "dgSpecHash": "SDeLh7MVZV010YXbHZE8msTdsEnxUqwqYfo2NsKsgS2fScSR+dwIu/MlxEtiaFvB7BbyVFyAsAJNSzICuR4Okw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\LobikAlex\\SkillBoxHomeWork\\MOD7_Struct\\EveryDay\\EveryDay.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"D:\\C#\\MOD7 Sourse\\Theme_07\\Homework_07\\07 Homework.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "D:\\C#\\MOD7 Sourse\\Theme_07\\Homework_07\\07 Homework.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

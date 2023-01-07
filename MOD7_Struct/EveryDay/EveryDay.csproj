@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="D:\C#\MOD7 Sourse\Theme_07\Homework_07\07 Homework.csproj" />
+  </ItemGroup>
+
 </Project>

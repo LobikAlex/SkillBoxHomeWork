@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Модуль 5. Методы", "Модуль 5. Методы", "{ADEFD904-F042-4061-BBA3-127E0E4F792D}"
 	ProjectSection(SolutionItems) = preProject
@@ -54,9 +54,24 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hakaton", "MOD6_Files\Hakat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Модуль 7. Структуры", "Модуль 7. Структуры", "{5D56CF69-5BD1-4571-B5A9-22120B2F043D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteBook", "MOD7_Struct\WriteBook\WriteBook.csproj", "{90B57205-1497-458D-959C-30F32475A026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriteBook", "MOD7_Struct\WriteBook\WriteBook.csproj", "{90B57205-1497-458D-959C-30F32475A026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveryDay", "MOD7_Struct\EveryDay\EveryDay.csproj", "{77956A50-89B0-4F0B-969A-CA123B0C034D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EveryDay", "MOD7_Struct\EveryDay\EveryDay.csproj", "{77956A50-89B0-4F0B-969A-CA123B0C034D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriteBook1", "D:\C#\repos\LobikAlex\SkillBoxHomeWork\MOD7_Struct\Записная книжна со структурой\WriteBook1.csproj", "{2D61A038-7F08-401E-88A7-C19682672E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD1_1", "MOD1_1\MOD1_1.csproj", "{1F8BC5FE-B643-43F7-B5A4-3901DC26F507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD1_1", "..\..\Theme1\Theme1\MOD1_1.csproj", "{15963445-1768-496E-AB3E-9DD4CB4D6642}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Модуль 2. Переменные", "Модуль 2. Переменные", "{D2E23DF3-14B1-475B-9863-13BCAAEE6732}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Модуль 3. Ветвления и циклы", "Модуль 3. Ветвления и циклы", "{37F063C1-7E11-496A-8BE4-125B478FF19C}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sourse", "Sourse", "{F1B001C6-FE71-4051-9BC8-4CA2F2640844}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -152,6 +167,18 @@ Global
 		{77956A50-89B0-4F0B-969A-CA123B0C034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77956A50-89B0-4F0B-969A-CA123B0C034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77956A50-89B0-4F0B-969A-CA123B0C034D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D61A038-7F08-401E-88A7-C19682672E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D61A038-7F08-401E-88A7-C19682672E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D61A038-7F08-401E-88A7-C19682672E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D61A038-7F08-401E-88A7-C19682672E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8BC5FE-B643-43F7-B5A4-3901DC26F507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8BC5FE-B643-43F7-B5A4-3901DC26F507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8BC5FE-B643-43F7-B5A4-3901DC26F507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8BC5FE-B643-43F7-B5A4-3901DC26F507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15963445-1768-496E-AB3E-9DD4CB4D6642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15963445-1768-496E-AB3E-9DD4CB4D6642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15963445-1768-496E-AB3E-9DD4CB4D6642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15963445-1768-496E-AB3E-9DD4CB4D6642}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +206,10 @@ Global
 		{16120263-9C50-4647-A5B1-8459ACF666D4} = {6E3325FB-DD5F-45BC-94AA-46A36A83D02C}
 		{90B57205-1497-458D-959C-30F32475A026} = {5D56CF69-5BD1-4571-B5A9-22120B2F043D}
 		{77956A50-89B0-4F0B-969A-CA123B0C034D} = {5D56CF69-5BD1-4571-B5A9-22120B2F043D}
+		{2D61A038-7F08-401E-88A7-C19682672E84} = {5D56CF69-5BD1-4571-B5A9-22120B2F043D}
+		{1F8BC5FE-B643-43F7-B5A4-3901DC26F507} = {5D56CF69-5BD1-4571-B5A9-22120B2F043D}
+		{15963445-1768-496E-AB3E-9DD4CB4D6642} = {D2E23DF3-14B1-475B-9863-13BCAAEE6732}
+		{F1B001C6-FE71-4051-9BC8-4CA2F2640844} = {37F063C1-7E11-496A-8BE4-125B478FF19C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DC919AA-3E6F-4B04-9C52-7A4C352A51EC}

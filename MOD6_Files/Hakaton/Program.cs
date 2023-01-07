@@ -5,7 +5,7 @@ using System.IO.Compression;
 using System.Diagnostics;
 
 
-namespace Хакатон
+namespace ХакатонLobikAlex
 {
     class Program
     {
