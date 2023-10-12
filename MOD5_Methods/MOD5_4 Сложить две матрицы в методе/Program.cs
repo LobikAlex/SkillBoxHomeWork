@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Matrix_Х
+namespace SUM_Matrix
 {
     class Program
     {
@@ -34,7 +34,7 @@ namespace Matrix_Х
        
 
         // Метод суммирующий две матрицы
-        static int[,] SumMatrix(int [, ]A, int [,] B)
+        static int[,] SumMatrix(int [,] A, int [,] B)
         {
 
             int str = A.GetLength(0);

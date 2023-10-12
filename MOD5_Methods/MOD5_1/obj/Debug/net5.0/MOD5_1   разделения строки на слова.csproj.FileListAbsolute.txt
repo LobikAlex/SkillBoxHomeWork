@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\bin\Debug\net5.0\MOD5_1   разделения строки на слова.exe
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\bin\Debug\net5.0\MOD5_1   разделения строки на слова.deps.json
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\bin\Debug\net5.0\MOD5_1   разделения строки на слова.runtimeconfig.json
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\bin\Debug\net5.0\MOD5_1   разделения строки на слова.runtimeconfig.dev.json
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\bin\Debug\net5.0\MOD5_1   разделения строки на слова.dll
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\bin\Debug\net5.0\MOD5_1   разделения строки на слова.pdb
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\MOD5_1   разделения строки на слова.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\MOD5_1   разделения строки на слова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\MOD5_1   разделения строки на слова.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\MOD5_1   разделения строки на слова.AssemblyInfo.cs
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\MOD5_1   разделения строки на слова.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\MOD5_1   разделения строки на слова.dll
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\refint\MOD5_1   разделения строки на слова.dll
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\MOD5_1   разделения строки на слова.pdb
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\MOD5_1   разделения строки на слова.genruntimeconfig.cache
+C:\Users\User\source\repos\LobikAlex\SkillBoxHomeWork\MOD5_Methods\MOD5_1\obj\Debug\net5.0\ref\MOD5_1   разделения строки на слова.dll

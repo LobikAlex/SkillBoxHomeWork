@@ -4,7 +4,9 @@ namespace Matrix_Х
 {
     class Program
     {
-        // Метод валидации чисел типа Byte
+        /// <summary>
+        /// Валидация чисел типа Byte для количества строк и столбцов матрицы
+        /// </summary>  
         static byte InputByte()
         {
             byte n;
@@ -16,7 +18,9 @@ namespace Matrix_Х
         }
 
 
-        // Метод валидации чисел типа INT
+        /// <summary>
+        ///  Метод валидации чисел типа INT для умножения на матрицу
+        /// </summary>
         static int InputInt()
         {
             int n;
@@ -29,7 +33,10 @@ namespace Matrix_Х
 
 
 
-        // Метод заполняющий матрицу
+        /// <summary>
+        /// Заполнение матрицы
+        /// </summary>
+
         static int[,] InputMatrix(int str, int column)
         {
             int[,] MATRIX = new int[str, column];
@@ -44,7 +51,10 @@ namespace Matrix_Х
             return MATRIX;
         }
         
-// Метод умножающий матрицу на число
+        /// <summary>
+        /// Умножение матрицы на число
+        /// </summary>
+
         static int[,] MatrixNumber(int n, int[,] Mat)
         {
             int str = Mat.GetLength(0);
@@ -62,7 +72,12 @@ namespace Matrix_Х
             return Array;
         }
 
-// Метод выводящий матрицу
+        /// <summary>
+        /// Вывод матрицы
+        /// </summary>
+        /// <param name="n"></param>
+        /// <param name="MATRIX"></param>
+        /// <param name="Result"></param>
         static void PrintMatrix(int n, int [,] MATRIX, int [,] Result)
         {
             int str = MATRIX.GetLength(0);
@@ -70,9 +85,9 @@ namespace Matrix_Х
 
 
             for (int i = 0; i < str; i++)
-            {
-                // сначала выводим число со знаком умножения
-                if (i == str / 2)
+            {                
+                                                                      // сначала выводим число со знаком умножения
+                if (i == str / 2)                                      
                 {
                     Console.Write(String.Format($"{n,2} х |"));
                 }
@@ -81,13 +96,13 @@ namespace Matrix_Х
                     Console.Write("     |");
                 }
 
-                // выводим матрицу
+                                                                       // выводим матрицу
                 for (int j = 0; j < column; j++)
                 {
                     Console.Write(String.Format("{0,3} ", MATRIX[i, j]));
                 }
 
-                // Выводим знак равно
+                                                                        // Выводим знак равно
                 if (i == str / 2)
                 {
                     Console.Write("| = |");
@@ -98,7 +113,7 @@ namespace Matrix_Х
                 }
 
 
-                // выводим результирующую матрицу
+                                                                        // выводим результирующую матрицу
                 for (int j = 0; j < column; j++)
                 {
                     Console.Write(String.Format("{0,3} ", Result[i, j]));
@@ -110,8 +125,6 @@ namespace Matrix_Х
         static void Main(string[] args)
         {
             Console.WriteLine("Умножение матрицы на число через метод");
-
-            // Для ввода 
             Console.Write("Введите число: ");
             int n = InputInt();
             Console.Write("Введите количество строк матрицы: ");
@@ -121,13 +134,13 @@ namespace Matrix_Х
 
 
 
-            // ВЫзываем метод заполняющий матрицу
-            int [,] MATRIX = InputMatrix(str, column);
-    
-// Вызов метода умножающий матрицу на число
-            int [,] Result = MatrixNumber(n, MATRIX);
+            // Заполняюем матрицу методом InputMatrix
+            int[,] MATRIX = InputMatrix(str, column);
 
-// Вызов метода выводящего матрицу
+            // Умножаем матрицу на число методом MatrixNumber
+            int[,] Result = MatrixNumber(n, MATRIX);
+
+            // Выводим матрицу
             PrintMatrix(n, MATRIX, Result);
  
         }  

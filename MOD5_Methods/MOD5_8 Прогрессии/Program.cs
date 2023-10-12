@@ -5,7 +5,9 @@ namespace MOD5_8_Прогрессии
     class Program
     {
 
-        // Метод валидации чисел типа Byte
+        /// <summary>
+        /// Ввод и валидация числа типа Byte
+        /// </summary>
         static byte InputByte()
         {
             byte n;
@@ -17,7 +19,10 @@ namespace MOD5_8_Прогрессии
         }
 
 
-        // Метод Ввод n чисел в вектор
+        /// <summary>
+        /// Ввод n чисел в вектор
+        /// </summary>
+
         static double[] InputArr(int n)
         {
             double[] Arr = new double[n];
@@ -26,7 +31,7 @@ namespace MOD5_8_Прогрессии
             {
                 Console.Write(i + 1 + ". ");
 
-                while (!double.TryParse(Console.ReadLine(), out Arr[i]))                    // Блок валидации целых чисел
+                while (!double.TryParse(Console.ReadLine(), out Arr[i]))        // Блок валидации целых чисел
                 {
                     Console.WriteLine("Ошибка ввода! Введите целое число");
                     Console.Write(i + 1 + ". ");
@@ -34,6 +39,7 @@ namespace MOD5_8_Прогрессии
             }
             return Arr;
         }
+
 
         //метод Тест на прогресию
         static void Progressia(double[] A)
@@ -95,3 +101,14 @@ namespace MOD5_8_Прогрессии
         }
     }
 }
+
+
+
+
+
+// Задание 4. Написать метод принимающий некоторое количесво чисел, выяснить
+// является заданная последовательность элементами арифметической или геометрической прогрессии
+// 
+// Примечание
+//             http://ru.wikipedia.org/wiki/Арифметическая_прогрессия
+//             http://ru.wikipedia.org/wiki/Геометрическая_прогрессия
